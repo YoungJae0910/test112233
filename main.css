@@ -36,7 +36,7 @@ a{
 .navbar_menu li :hover{
     background-color: #455a64;
     border-radius: 6px;
-    padding: 4px;
+    padding: 3px;
 }
 
 .navbar_subicon{
