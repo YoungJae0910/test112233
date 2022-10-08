@@ -35,7 +35,7 @@ a{
 
 .navbar_menu li :hover{
     background-color: #455a64;
-    border-radius: 6px;
+    border-radius: 4px;
     padding: 3px;
 }
 
